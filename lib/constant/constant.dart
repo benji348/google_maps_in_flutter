@@ -1,0 +1,1 @@
+const googleLocationsURL = 'https://about.google/static/data/locations.json';
